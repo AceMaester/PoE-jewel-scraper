@@ -1,0 +1,126 @@
+##% additional Block Chance while Dual Wielding,0
+##% additional Chance to Block Spells with Shields,2
+##% additional Chance to Block Spells with Staves,0
+##% additional Chance to Block Spells while Dual Wielding,0
+##% additional Chance to Block with Staves,0
+##% additional Chance to Block with Shields,2
+##% chance to Freeze,0
+##% chance to Ignite,0
+##% chance to Knock Enemies Back on hit,0
+##% chance to Shock,0
+##% faster start of Energy Shield Recharge,0
+##% increased Accuracy Rating,0.5
+##% increased Area Damage,1
+##% increased Armour,0
+##% increased Attack Speed,2.4
+##% increased Attack Speed while Dual Wielding,0
+##% increased Attack Speed while holding a Shield,2.4
+##% increased Attack Speed with Axes,0
+##% increased Attack Speed with Bows,0
+##% increased Attack Speed with Claws,0
+##% increased Attack Speed with Daggers,0
+##% increased Attack Speed with Maces,0
+##% increased Attack Speed with One Handed Melee Weapons,0
+##% increased Attack Speed with Staves,0
+##% increased Attack Speed with Swords,0
+##% increased Attack Speed with Two Handed Melee Weapons,0
+##% increased Attack Speed with Wands,2.4
+##% increased Attack and Cast Speed,2.4
+##% increased Cast Speed,0
+##% increased Cast Speed while Dual Wielding,0
+##% increased Cast Speed while holding a Shield,0
+##% increased Cast Speed while wielding a Staff,0
+##% increased Cast Speed with Cold Skills,0
+##% increased Cast Speed with Fire Skills,0
+##% increased Cast Speed with Lightning Skills,0
+##% increased Chaos Damage,0
+##% increased Cold Damage,0.4
+##% increased Critical Strike Chance for Spells,0
+##% increased Critical Strike Chance with Cold Skills,0
+##% increased Critical Strike Chance with Elemental Skills,0
+##% increased Critical Strike Chance with Fire Skills,0
+##% increased Critical Strike Chance with Lightning Skills,0
+##% increased Critical Strike Chance with One Handed Melee Weapons,0
+##% increased Critical Strike Chance with Two Handed Melee Weapons,0
+##% increased Critical Strike Multiplier for Spells,0
+##% increased Critical Strike Multiplier with Cold Skills,0
+##% increased Critical Strike Multiplier with Elemental Skills,0
+##% increased Critical Strike Multiplier with Fire Skills,0
+##% increased Critical Strike Multiplier with Lightning Skills,0
+##% increased Critical Strike Multiplier with One Handed Melee Weapons,0
+##% increased Critical Strike Multiplier with Two Handed Melee Weapons,0
+##% increased Critical Strike Multiplier while Dual Wielding,0
+##% increased Damage,1
+##% increased Damage over Time,0
+##% increased Energy Shield Recharge Rate,0
+##% increased Evasion Rating,0.3
+##% increased Fire Damage,0
+##% increased Freeze Duration on Enemies,0
+##% increased Global Critical Strike Chance,0.5
+##% increased Global Critical Strike Multiplier,0.8
+##% increased Ignite Duration on Enemies,0
+##% increased Lightning Damage,0
+##% increased Mana Regeneration Rate,0.2
+##% increased Melee Critical Strike Chance,0
+##% increased Melee Critical Strike Multiplier,0
+##% increased Melee Damage,0
+##% increased Melee Physical Damage while holding a Shield,0
+##% increased Mine Damage,0
+##% increased Mine Laying Speed,0
+##% increased Physical Damage,1
+##% increased Physical Damage with Axes,0
+##% increased Physical Damage with Bows,0
+##% increased Physical Damage with Claws,0
+##% increased Physical Damage with Daggers,0
+##% increased Physical Damage with Maces,0
+##% increased Physical Damage with One Handed Melee Weapons,0
+##% increased Physical Damage with Swords,0
+##% increased Physical Damage with Staves,0
+##% increased Physical Damage with Two Handed Melee Weapons,0
+##% increased Physical Damage with Wands,1
+##% increased Physical Weapon Damage while Dual Wielding,0
+##% increased Projectile Damage,1
+##% increased Projectile Speed,0
+##% increased Shock Duration on Enemies,0
+##% increased Spell Damage,0
+##% increased Spell Damage while Dual Wielding,0
+##% increased Spell Damage while holding a Shield,0
+##% increased Spell Damage while wielding a Staff,0
+##% increased Stun Duration on Enemies,0
+##% increased Stun Recovery,0
+##% increased Totem Damage,0
+##% increased Totem Life,0
+##% increased Trap Damage,0
+##% increased Trap Throwing Speed,0
+##% increased Weapon Critical Strike Chance while Dual Wielding,0
+##% increased maximum Energy Shield,0
+##% increased maximum Life,3
+##% increased maximum Mana,0.2
+##% increased Rarity of Items found,0.6
+##% of Physical Attack Damage Leeched as Life,20
+##% of Physical Attack Damage Leeched as Mana,25
+##% reduced Mana Cost of Skills,1
+#+# Energy Shield gained for each Enemy hit by your Attacks,0
+#+# Life gained for each Enemy hit by your Attacks,0
+#+# Mana gained for each Enemy hit by your Attacks,0
+#+# to Dexterity,0.2
+#+# to Dexterity and Intelligence,0.3
+#+# to Intelligence,0.2
+#+# to Strength,0.2
+#+# to Strength and Dexterity,0.3
+#+# to Strength and Intelligence,0.3
+#+# to all Attributes,0.4
+#+#% to Chaos Resistance,0.4
+#+#% to Cold Resistance,0.3
+#+#% to Cold and Lightning Resistances,0.65
+#+#% to Fire Resistance,0.3
+#+#% to Fire and Cold Resistances,0.65
+#+#% to Fire and Lightning Resistances,0.65
+#+#% to Lightning Resistance,0.3
+#+#% to all Elemental Resistances,1.2
+#Minions deal #% increased Damage,0
+#Minions have #% Chance to Block,0
+#Minions have #% increased maximum Life,0
+#Minions have +#% to all Elemental Resistances,0
+#Totems gain +#% to all Elemental Resistances,0
+0
